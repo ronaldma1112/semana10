@@ -1,0 +1,34 @@
+h1 {
+    /*border: grosor estilo , estilo linea(color) */
+    /*los estilos de linea: solid, dashed , dotted , double */
+    border: 10px double blue;
+
+}
+
+p {
+    border-width: 10px;
+    border-style: solid;
+    border-color: brown;
+}
+
+h2 {
+    border-top: 3px dashed coral;
+    border-bottom: 5px solid blue;
+    border-left: 12px dotted orange;
+    border-right: 15px double yellowgreen;
+}
+
+p.parrafo {
+    border-top-width: 12px;
+    border-top-style: dashed;
+    border-top-color: turquoise;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: aquamarine;
+    border-left-width: 5px;
+    border-left-style: dotted;
+    border-left-color: blueviolet;
+    border-right-width: 8px;
+    border-right-style: double;
+    border-right-color: beige;
+}

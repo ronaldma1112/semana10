@@ -1,0 +1,37 @@
+*{
+    margin: 0; 
+}.p1{
+    background-color: orange;
+    text-align: justify;
+    color: blue;
+    margin: 20px ;
+}
+.p2{
+    background-color: brown;
+    text-align: justify;
+    color: white;
+    margin-top: 95px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+}
+.p3{
+    background-color: rgb(228, 27, 168);
+    text-align: justify;
+    color: rgb(16, 236, 115);
+    /*margin: top right bottom left */
+    /*margin: 20px 15px 10px 8px;*/
+    /*margin: top left/ right bottom */
+    margin: 30px 45px 25px ;
+    /*maring: top/bottomm left/right */
+}
+.p4{
+    background-color: rgb(231, 7, 7);
+    text-align: justify;
+    color: rgb(177, 219, 98);
+    /*margin: top right bottom left */
+    margin: 20px 15px 10px 8px;
+     /*margin: top left/ right bottom */
+     margin: 30px 45px 25px ;
+     /*maring: top/bottomm left/right */
+}
